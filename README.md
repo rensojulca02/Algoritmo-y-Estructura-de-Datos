@@ -25,11 +25,11 @@
     - DEFINIDO: Si se sigue un algoritmo dos veces, se obtendrá el mismo resultado.  
     - FINITO: Debe terminar en algún momento.
 - Las secciones del algoritmo son ENTRADA, PROCESO Y SALIDA. 
-- Se puede representar de 3 maneras:
-        • Pseudocodigo
-        • Diagramas de Flujo
-        • Diagramas Nassi-Schneiderman (NS)
-        
+- Se puede representar de 3 maneras:  
+    - Pseudocodigo  
+    - Diagramas de Flujo  
+    - Diagramas Nassi-Schneiderman (NS)  
+
 ![Imgur](https://i.imgur.com/FFrs7Q9.png)
 
 ### **3) ESTRUCTURA DE DATOS**
