@@ -33,7 +33,14 @@
     - Diagramas Nassi-Schneiderman (NS)  
 
 ### **3) ESTRUCTURA DE DATOS**
+- Es una forma de organizar y almacenar los datos en una computadora para que se pueda acceder a ellos y actualizarlos de manera eficiente.
 
+- La idea es reducir las complejidades de espacio y tiempo de las diferentes tareas.
+
+- Algunos ejemplos de estructuras de datos son:   
+    - Arreglo dinamicos
+    - Listas 
+    - Pilas, Colas, etc.
 
 
 
