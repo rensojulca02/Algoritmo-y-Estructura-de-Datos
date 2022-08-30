@@ -29,8 +29,7 @@
         • Pseudocodigo
         • Diagramas de Flujo
         • Diagramas Nassi-Schneiderman (NS)
-![IMG ALGORITMOS](img//algoritmos.png)
-    
+![Imgur](https://i.imgur.com/FFrs7Q9.png)
 ### **3) ESTRUCTURA DE DATOS**
     
 
