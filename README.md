@@ -13,8 +13,7 @@
 - Conjunto de datos organizados, estructurados, procesados y analizados en un contexto util.
 - La informacion son datos procesados (relevantes para el usuario).
 
-**OBS: La accion realizada por el CPU para convertir datos en informacion se denomina proceso.** 
-
+**OBS: La accion realizada por el CPU para convertir datos en informacion se denomina proceso.**   
 **OBS 2: Depende del contexto, la palabra [proceso](https://www.defit.org/process/) puede variar el significado.**
 
 ### **3) ALGORTIMO**
