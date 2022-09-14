@@ -13,32 +13,32 @@
 - Conjunto de datos organizados, estructurados, procesados y analizados en un contexto util.
 - La informacion son datos procesados (relevantes para el usuario).
 
-**OBS: La accion realizada por el CPU para convertir datos en informacion se denomina proceso.**   
+**OBS: La accion realizada por el CPU para convertir datos en informacion se denomina proceso.**
 **OBS 2: Depende del contexto, la palabra [proceso](https://www.defit.org/process/) puede variar el significado.**
 
-### **3) ALGORTIMO**
+### **3)ALGORTIMO**
+
 - Informalmente, un algoritmo es un conjunto de pasos a seguir para resolver un problema.
 - Un algoritmo es, por lo tanto, una secuencia de pasos computacionales que transforman la entrada (input) en salida (ouput).
 - Este tiene ciertas caracteristicas:  
-    - PRECISO: Debe definirse de manera rigurosa  
-    - DEFINIDO: Si se sigue un algoritmo dos veces, se obtendrá el mismo resultado.  
-    - FINITO: Debe terminar en algún momento.
-- Las secciones del algoritmo son ENTRADA, PROCESO Y SALIDA. 
+        - PRECISO: Debe definirse de manera rigurosa  
+        - DEFINIDO: Si se sigue un algoritmo dos veces, se obtendrá el mismo resultado.  
+        - FINITO: Debe terminar en algún momento.
+            - Las secciones del algoritmo son ENTRADA, PROCESO Y SALIDA.  
 
 ![Imgur](https://i.imgur.com/FFrs7Q9.png)
 
 - Se puede representar de 3 maneras:  
-    - Pseudocodigo  
-    - Diagramas de Flujo  
-    - Diagramas Nassi-Schneiderman (NS)  
+        - Pseudocodigo  
+        - Diagramas de Flujo  
+        - Diagramas Nassi-Schneiderman (NS)  
 
 ### **3) ESTRUCTURA DE DATOS**
+
 - Es una forma de organizar y almacenar los datos en una computadora para que se pueda acceder a ellos y actualizarlos de manera eficiente.
 - La idea es reducir las complejidades de espacio y tiempo de las diferentes tareas.
 - Algunos ejemplos de estructuras de datos son:   
     - Arreglo dinamicos
     - Listas 
-    - Pilas, Colas, etc.
-
-
-
+    - Pilas, Colas
+    - etc.        
